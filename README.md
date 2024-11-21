@@ -10,3 +10,9 @@ This project calculates forward prices for assets based on spot prices and inter
 ## Installation
 1. Clone the repository.
 2. Install dependencies:
+
+
+## Project Structure
+- `data/`: Contains sample data for testing.
+- `src/`: Source code for pricing, arbitrage detection, and visualization.
+- `main.py`: Main script to run the project.
